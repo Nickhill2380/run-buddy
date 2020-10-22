@@ -137,7 +137,8 @@ section {
     color: var(--secondary-color);
     width: 40%;
     margin: 3.5%;
-    border-radius: 15px;  
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);  
 }
 
 .hero-form h3{
